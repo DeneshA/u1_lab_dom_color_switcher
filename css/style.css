@@ -4,6 +4,7 @@ body {
   font-family: sans-serif;
   font-size: 18px;
   line-height: 1.5;
+  /*transition: background-color 0.5s ease;*/
 }
 
 li a {
@@ -41,8 +42,10 @@ p {
 
 .blue {
   background-color: blue;
+
 }
 
 .yellow {
   background-color: yellow;
+
 }
